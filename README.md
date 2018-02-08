@@ -1,0 +1,1 @@
+# tasmota-hass-adapter
